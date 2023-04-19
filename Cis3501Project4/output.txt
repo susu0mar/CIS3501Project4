@@ -1,0 +1,27 @@
+
+Initialization File!
+
+Empty File. Queue is empty
+
+Action File!
+
+Inserting: "item1" 7
+Inserting: "item2" 6
+Inserting: "item3" 5
+Inserting: "item4" 4
+Inserting: "item5" 3
+Inserting: "item6" 2
+Inserting: "item7" 1
+Action File Complete!!
+
+
+User Interface Actions!
+
+Printing Queue: 
+[("item7",1);
+("item4",4);
+("item6",2);
+("item1",7);
+("item3",5);
+("item2",6);
+("item5",3)]
